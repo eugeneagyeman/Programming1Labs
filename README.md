@@ -1,4 +1,7 @@
 # Programming 1 Labs
+Please note any future or current CS Undergrads are not permitted to copy, reuse or distribute any of my code as to do so would be a breach of Academic Integrity and a pain in my backside...
+You have been warned.
+
 Programming 1 Labs Submissions. Overall averaged 87% (Prizeworthy) 
 
 Introduction to Object Orientated Programming Concepts in Java.
@@ -21,5 +24,4 @@ These labs covered these concepts below (Source southampton.ac.uk)
 - Abstract Classes and Interfaces
 - Designing Applications (Moving from problem to solution)
 
-Please note any future or current CS Undergrads are not permitted to copy, reuse or distribute any of my code as to do so would be a breach of Academic Integrity and a pain in my backside...
-You have been warned.
+
